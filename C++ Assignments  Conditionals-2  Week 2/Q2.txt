@@ -1,0 +1,4 @@
+The output of the code is:
+a=15
+b=15
+c=0
